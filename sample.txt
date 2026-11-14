@@ -1095,3 +1095,10 @@ Line 7: Reading files line by line helps keep memory footprint minimal.
 Line 8: Error handling in Go is explicit, forcing robust code practices.
 Line 9: Maps and slices serve as primary data structures for data manipulation.
 Line 10: Building CLI tools in Go is both performant and enjoyable.
+Line 4: Concurrency is built into the core design of the language.
+Line 5: Goroutines and channels allow for efficient parallel execution.
+Line 6: The bufio package provides buffered I/O operations for reading files.
+Line 7: Reading files line by line helps keep memory footprint minimal.
+Line 8: Error handling in Go is explicit, forcing robust code practices.
+Line 9: Maps and slices serve as primary data structures for data manipulation.
+Line 10: Building CLI tools in Go is both performant and enjoyable.
